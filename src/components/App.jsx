@@ -1,4 +1,4 @@
-import { FedBack } from './FeedBack/FedBack';
+import FedBack from './FeedBack/FedBack';
 
 export const App = () => {
   return (
